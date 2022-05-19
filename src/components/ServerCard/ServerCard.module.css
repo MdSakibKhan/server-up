@@ -1,0 +1,11 @@
+.server_name {
+    font-size: 15px;
+    font-weight: bold;
+    color: blue;
+}
+
+.server_ip {
+    font-size: 15px;
+    font-weight: bold;
+    color: chartreuse;
+}
